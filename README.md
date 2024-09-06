@@ -1,0 +1,1 @@
+# Fortune-Quest-CPP-project
