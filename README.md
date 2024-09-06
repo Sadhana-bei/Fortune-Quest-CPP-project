@@ -13,12 +13,17 @@ Welcome to a world of adventure, where your story is just beginning.
 ### Team_35 (Tech Titans)
 
 **Sadhana Gautam**
+https://github.com/Sadhana-bei
 
 **Tirthankar Khatiwada**
+https://github.com/tirthankar047
 
 **Bijay Dhakal**
 
+
 **Sushil Kumar Mandal**
+
+
 ## How to Run the code
 1.Clone the repository to your local machine:
 
